@@ -12,4 +12,4 @@ stg_products AS (
    FROM raw_products
 )
 SELECT *
-FROM stg_products 
+FROM stg_products
