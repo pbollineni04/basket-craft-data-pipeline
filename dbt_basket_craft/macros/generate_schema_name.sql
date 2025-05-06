@@ -5,4 +5,3 @@
     {{ target.schema ~ '_' ~ custom_schema }}
   {%- endif -%}
 {%- endmacro %}
-
