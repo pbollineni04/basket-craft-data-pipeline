@@ -1,0 +1,2 @@
+
+This repository implements an end-to-end data pipeline using an ELT approach. Python scripts in the ELT directory extract data from MySQL and load it into a PostgreSQL raw schema, while dbt models in this project transform the data across staging, warehouse, and marts layers. Automated tests, detailed documentation, and SQL-based transformations ensure data quality and operational efficiency throughout the pipeline.
